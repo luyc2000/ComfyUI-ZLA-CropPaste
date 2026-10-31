@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+bak/
+preset - 副本.txt

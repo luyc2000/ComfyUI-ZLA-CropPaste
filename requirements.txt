@@ -1,0 +1,5 @@
+﻿torch
+numpy
+pillow
+opencv-contrib-python>=4.10
+psd-tools>=1.12.1
